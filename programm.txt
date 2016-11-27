@@ -1,2 +1,2 @@
-print("Hello world")
-new class
+print("Hello world;")
+new class;;;
